@@ -19,3 +19,4 @@ Avant de pouvoir exécuter les cellules du notebook, assurez-vous de suivre ces 
    pip install -r requirements.txt
    ```
 4. **Exécutez le notebook :** Ouvrez le notebook dans un environnement compatible avec Jupyter et exécutez les cellules pour observer les résultats de l'implémentation du Latent Topic Block Model.
+(Certaines matrices sont importées depuis des fichiers .csv pour éviter de les recalculer à chaque exécution du notebook.)
